@@ -2,7 +2,7 @@
 
 Mega Sudoku is a modern, high-performance web application designed for Sudoku enthusiasts. Whether you are a beginner looking to learn the ropes or a grandmaster seeking a challenge, Mega Sudoku provides a seamless and engaging experience directly in your browser.
 
-![Mega Sudoku Header](https://github.com/user-attachments/assets/88c85cd5-a80a-4838-9b6b-462bc1775782)
+![Mega Sudoku Header](https://github.com/user-attachments/assets/fd6eb74e-2992-4fec-b167-3d1fb585f5ac)
 
 ## 🌟 About the Game
 
