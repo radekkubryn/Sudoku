@@ -4,12 +4,12 @@ Mega Sudoku is a modern, high-performance web application designed for Sudoku en
 
 ![Mega Sudoku Header](https://github.com/user-attachments/assets/fd6eb74e-2992-4fec-b167-3d1fb585f5ac)
 
+## 📚 Demo
+http://f0oc40484w04404w4w88oosk.91.241.5.172.sslip.io/
+
 ## 🌟 About the Game
 
 Mega Sudoku is a sleek, responsive, and performance-driven Sudoku web application. This project brings the classic logic puzzle into the modern era with a clean UI and robust functionality.
-
-## 📚 Demo
-http://f0oc40484w04404w4w88oosk.91.241.5.172.sslip.io/
 
 ### Key Features
 - **Dynamic Difficulty**: Choose between Easy, Medium, and Hard levels.
